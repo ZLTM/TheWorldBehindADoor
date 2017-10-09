@@ -7,28 +7,27 @@
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
-Game made following the theme "Ritual", it showcases the Bolivian culture old rituals by putting the player in the shoes of a yatiri (kind of like a shaman) accomplishing this using the movement tracking of [MYO](https://www.myo.com/).
-
-## Important
-**Due to legal issues I'm no longer able to provide the game exe, however I can still show the code.**
+Virtual Reality game made following the theme "Geography", It lets the player explore the secret rooms of an old now retired explorer.
 
 ## Participation
 
-In this project I was able to participate together with the bolivian game studio GESH as a:
+Participated together with local game developers as the:
 
-* Game Designer: My first time designing a rythm game, also my first time using movement tracking.
-* Programer: Developed the rythm mechanic, helped with the demons movement.
+* Game Designer.
+* Level Designer.
+* Puzzle designer for the Australia stage.
 
 ## Installation
 
 Windows:
 
-This game requires [MYO](https://www.myo.com/), after instaling it just open the game and play!
+This game requires [Google Cardboard](https://vr.google.com/cardboard/).
+Allow unknown sources on your cellphone, install the APK, ready to play !
 
 
 ## Gameplay
 
-As the hordes of demons aproaches you will purify them by moving your hands at the rythm of the beat marked by the circle.
+Look arround and examine the room using the cardboard lateral trigger, find information, solve the puzzles and open the door to a new room.
 
 ## Contact
 
