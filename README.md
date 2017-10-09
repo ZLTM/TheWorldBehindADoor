@@ -6,8 +6,11 @@
 [![State](https://img.shields.io/badge/State-Beta-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
-
+## Participation
 Virtual Reality game made following the theme "Geography", It lets the player explore the secret rooms of an old now retired explorer.
+
+## Important
+**Due to legal issues I'm no longer able to provide the code and art, however I can still show the game APK.**
 
 ## Participation
 
