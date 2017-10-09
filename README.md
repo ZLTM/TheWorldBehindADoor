@@ -1,5 +1,5 @@
 # The World Behind a Door
-> Videogame made for the 2016 Bolivian GGJ
+> Videogame Winner of the second place at the 2015 USA Hackaton in La Paz
 
 [![Type](https://img.shields.io/badge/Type-Videogame-945C1D.svg)](https://github.com/ZLTM/Taki)
 [![Genre](https://img.shields.io/badge/Genre-Sensation-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
