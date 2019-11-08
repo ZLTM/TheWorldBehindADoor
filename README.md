@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 Winner of the second place at the USA Hackaton of 2015 in La Paz Bolivia.
-A virtual Reality game made following the theme "Geography", It lets the player explore the secret rooms of an old now retired explorer.
+A virtual Reality game made following the theme "Geography", It lets the player explore the secret rooms of an old now retired explorer's mansion.
 
 ## Participation
 Virtual Reality game made following the theme "Geography", It lets the player explore the secret rooms of an old now retired explorer.
